@@ -271,4 +271,4 @@ This repository serves as the official landing page for Battlefield 2. The softw
 **Get the most recent version of Battlefield 2 today!**
 
 ---
-**Last updated:** 2026-09-08 23:15:17 UTC
+**Last updated:** 2026-09-09 03:51:51 UTC
